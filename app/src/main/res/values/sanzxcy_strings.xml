@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sanzxcy_about_title" translatable="false">Tentang</string>
+    <string name="sanzxcy_app_name" translatable="false">Sanzxcy</string>
+    <string name="sanzxcy_developer_name" translatable="false">SANZXCY</string>
+    <string name="sanzxcy_developer_label" translatable="false">PENGEMBANG</string>
+    <string name="sanzxcy_social_media" translatable="false">MEDIA SOSIAL</string>
+    <string name="sanzxcy_not_configured" translatable="false">Belum diatur</string>
+    <string name="sanzxcy_based_on" translatable="false">Berbasis Sanzxcy Music · GPL-3.0</string>
+    <string name="sanzxcy_community" translatable="false">Komunitas</string>
+</resources>

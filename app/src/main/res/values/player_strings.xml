@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player_now_playing">NOW PLAYING</string>
+    <string name="player_listen_together">LISTEN TOGETHER</string>
+    <string name="player_lyrics">Lyrics</string>
+    <string name="player_queue">Queue</string>
+    <string name="player_share">Share</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player_now_playing">SEDANG DIPUTAR</string>
+    <string name="player_listen_together">DENGARKAN BERSAMA</string>
+    <string name="player_lyrics">Lirik</string>
+    <string name="player_queue">Antrean</string>
+    <string name="player_share">Bagikan</string>
+</resources>
